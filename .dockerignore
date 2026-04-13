@@ -1,0 +1,14 @@
+*.md
+.git
+.gitignore
+README.md
+.env
+.nyc_output
+coverage
+.coverage
+.vscode
+.github
+tests/
+Dockerfile*
+docker-compose*
+.dockerignore
